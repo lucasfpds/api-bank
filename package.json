@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
     "dev": "nodemon ./src/index.js",
-    "test": "jest --watchAll=false --noStackTrace"
+    "test": "jest --watchAll=false --noStackTrace",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
