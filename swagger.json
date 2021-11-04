@@ -5,11 +5,11 @@
     "title": "REST API",
     "description": ""
   },
-  "host": "localhost:3000",
+  "host": "apicubosbank.herokuapp.com",
   "basePath": "/",
   "tags": [],
   "schemes": [
-    "http"
+    "https"
   ],
   "consumes": [],
   "produces": [],

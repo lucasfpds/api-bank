@@ -6,14 +6,16 @@
   "scripts": {
     "dev": "nodemon ./src/index.js",
     "test": "jest --watchAll=false --noStackTrace",
-    "start": "node index.js"
+    "start": "node ./src/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
+    "cors": "^2.8.5",
     "date-fns": "^2.25.0",
+    "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "swagger-autogen": "^2.12.4",
     "swagger-ui-express": "^4.1.6",
