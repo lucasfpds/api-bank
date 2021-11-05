@@ -1,3 +1,20 @@
+# Api Banco
+
+<p>
+JavaScript | NodeJS | Express<br>
+API REST utilizando configuração de rotas, controladores, frameworks e módulos para o NodeJS. Tudo com uso de programação assíncrona, integração de api externa e codificação JSON e Swagger.
+</p>
+
+[Deploy](https://apicubosbank.herokuapp.com/docs/)<br>
+
+<h2>📷 Preview</h2>
+
+<img src="./desafio back-api-banco.gif">
+
+
+
+
+
 ![](https://i.imgur.com/xG74tOh.png)
 
 # Desafio | Back-end - Módulo 2
