@@ -2,7 +2,7 @@
 
 <p>
 JavaScript | NodeJS | Express<br>
-API REST utilizando configuração de rotas, controladores, frameworks e módulos para o NodeJS. Tudo com uso de programação assíncrona, integração de api externa e codificação JSON e Swagger.
+API REST utilizando configuração de rotas, controladores, framework e módulos para o NodeJS. Tudo com uso de programação assíncrona, integração de api externa e codificação JSON e Swagger.
 </p>
 
 [Deploy](https://apicubosbank.herokuapp.com/docs/)<br>
