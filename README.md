@@ -19,10 +19,17 @@ Fora do servidor Node, a aplicação vem com Swagger; uma [documentação aberta
 <img src="./desafio back-api-banco.gif">
 
 
+## Pré-requisitos
+
+- [NodeJS](https://nodejs.org/en/download/)
 
 ## 🛠️ Instalação	
 
 ```bash
+ #Fazer o fork do repositório para sua conta
+
+ #Executar git clone do seu fork no terminal para clonar o repositório
+
 # Instale as Dependências para download
 $ npm install
 ```
