@@ -8,11 +8,11 @@ API REST utilizando configuração de rotas, controladores, framework e módulos
 
 ## 📝 Open API
 
-Out of the box, the web app comes with Swagger; an [open api specification](https://swagger.io/specification/), that is used to describe RESTful APIs. Nest provides a [dedicated module to work with it](https://docs.nestjs.com/recipes/swagger).
+Fora do servidor Node, a aplicação vem com Swagger; uma [documentação aberta da API](https://swagger.io/specification/), que é usada para descrever APIs RESTful.
 
-**Swagger UI on [localhost](http://localhost:4000/docs)**
+**Swagger UI on [Heroku](https://apicubosbank.herokuapp.com/docs/)**
 
-[Deploy](https://apicubosbank.herokuapp.com/docs/)<br>
+<br>
 
 <h2>📷 Preview</h2>
 
@@ -20,42 +20,40 @@ Out of the box, the web app comes with Swagger; an [open api specification](http
 
 
 
-## 🛠️ Installation
+## 🛠️ Instalação	
 
 ```bash
-# download dependencies
+# Instale as Dependências para download
 $ npm install
 ```
 
 ## 🔒 Environment
 
-By default, the application comes with a config module that can read in every environment variable from the `.env` file.
+Por padrão, após a instalação das dependências a aplicação vem com um módulo de configuração que pode ler todas as variáveis ​​de ambiente do arquivo `.env`.
 
 ```bash
-# create a .env file using the .env.example
+# Crie um arquivo .env usando de exemplo o arquivo .env.example
 $ cp .env.example .env
 ```
 
 | Key                       | Description                                                          | Default Value              |
 | ------------------------- | -------------------------------------------------------------------- | -------------------------- |
-| PORT                      | The application port.                                                | 3000                       |
+| PORT                      | Porta da aplicação.                                                | 3000                       |
 
 
-## 🏃 Running the app
+## 🏃 Executando o app
 
 ```bash
-# development
+# Para somente executar, após a instalação use:
 $ npm run start
 
-# watch mode (recommended in development)
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-
-# debug mode
-$ npm run start:debug
+# Se você vai realizar desenvolvimento use:
+$ npm run dev
 ```
+
+5. Aplicação disponível em **http://localhost:3000**
+
+## Este desafio teve alguns requisitos, e consequentemente vendo os requisitos você também saberá como a aplicação deve funcionar, então vou deixar todos logo aqui abaixo 😉.
 
 
 # Desafio | Back-end - Módulo 2
