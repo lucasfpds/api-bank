@@ -1,7 +1,7 @@
 # Api Banco
 
 <p>
-JavaScript | NodeJS | Express<br>
+JavaScript | NodeJS | Express<br><br>
 API REST utilizando configuração de rotas, controladores, framework e módulos para o NodeJS. Tudo com uso de programação assíncrona, integração de api externa e codificação JSON e Swagger.
 </p>
 
@@ -10,7 +10,7 @@ API REST utilizando configuração de rotas, controladores, framework e módulos
 
 Fora do servidor Node, a aplicação vem com Swagger; uma [documentação aberta da API](https://swagger.io/specification/), que é usada para descrever APIs RESTful.
 
-**Swagger UI on [Heroku](https://apicubosbank.herokuapp.com/docs/)**
+**Acesse o Swagger UI dessa aplicação aqui na [Heroku](https://apicubosbank.herokuapp.com/docs/)**
 
 <br>
 
@@ -26,11 +26,11 @@ Fora do servidor Node, a aplicação vem com Swagger; uma [documentação aberta
 ## 🛠️ Instalação	
 
 ```bash
- #Fazer o fork do repositório para sua conta
+#Fazer o fork do repositório para sua conta
 
- #Executar git clone do seu fork no terminal para clonar o repositório
+#Executar git clone do seu fork no terminal para clonar o repositório
 
-# Instale as Dependências para download
+# Instale as Dependências para o funcionamento do projeto
 $ npm install
 ```
 
@@ -58,7 +58,7 @@ $ npm run start
 $ npm run dev
 ```
 
-5. Aplicação disponível em **http://localhost:3000**
+5. Aplicação ficará disponível em **http://localhost:3000** caso o valor padrão não seja alterado.
 
 ## Este desafio teve alguns requisitos, e consequentemente vendo os requisitos você também saberá como a aplicação deve funcionar, então vou deixar todos logo aqui abaixo 😉.
 
