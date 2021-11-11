@@ -45,7 +45,7 @@ $ cp .env.example .env
 
 | Key                       | Description                                                          | Default Value              |
 | ------------------------- | -------------------------------------------------------------------- | -------------------------- |
-| PORT                      | Porta da aplicação.                                                | 3000                       |
+| PORT                      | Porta da aplicação.                                                  | 3000                       |
 
 
 ## 🏃 Executando o app
